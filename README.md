@@ -28,7 +28,3 @@ Figure 10: Bottom 3 Disciplines Fields per University by Ethics Count
 
 ●	The variation across institutions suggests diverse approaches to integrating ethical considerations in different academic programs.
 
-
-
-![image](https://github.com/user-attachments/assets/429ceb84-6b92-432c-8fa1-9b2383bfd5a4)
-
