@@ -13,7 +13,9 @@ Comparative Analysis
 
 Figure 9: Bottom 3 Disciplines Fields per University by Business Count
 
+
 ●	Fields such as Basic Computer Skills, Atmospheric Sciences, Health Technician, Nutrition, and Public Safety consistently show the lowest counts, indicating minimal integration of business concepts in these areas.
+
 ●	The distribution of business-related keywords in these bottom fields varies across universities, suggesting differences in curricular focus and priorities.
 
 
@@ -23,6 +25,7 @@ Figure 9: Bottom 3 Disciplines Fields per University by Business Count
 Figure 10: Bottom 3 Disciplines Fields per University by Ethics Count
 
 ●	Fields like Public Safety, Atmospheric Sciences, Nutrition, Culinary Arts, and Basic Computer Skills show the lowest ethics-related keyword counts, highlighting their limited focus on ethical training.
+
 ●	The variation across institutions suggests diverse approaches to integrating ethical considerations in different academic programs.
 
 
