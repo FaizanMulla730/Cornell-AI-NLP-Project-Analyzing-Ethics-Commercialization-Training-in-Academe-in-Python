@@ -37,9 +37,11 @@ Cornell University
 1.	Harvard University:
 
 ●	Similar trends were observed in the incorporation of business commercialization concepts in Management and Economics courses.
+
 2.	UPenn:
 
 ●	Higher emphasis on ethics in History and Law-related courses compared to other institutions.
+
 3.	Columbia University:
 
 ●	Strong focus on business concepts in their Business school, with significant integration of ethical training in Law and Social Sciences.
@@ -56,6 +58,7 @@ Importance of the Study
 ●	Provides a framework for future curriculum development aimed at fostering a balance between academic knowledge and practical skills.
 
 ## Future Recommendations
+
 1.	Curriculum Development:
 
 ●	Encourage interdisciplinary courses that blend business concepts with ethical training to foster a holistic educational experience.
