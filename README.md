@@ -6,11 +6,13 @@ The primary objective of this project is to analyze the integration of research 
 Summary of the Project
 Our project investigates the variation and evolution of formal training in research ethics and commercialization practices across academic disciplines and universities over time. Using advanced natural language processing (NLP) techniques with SpaCy, we cleaned and preprocessed vast amounts of textual data from course syllabi and institutional guidelines. Employing the KeyBERT model for keyword extraction, we identified key themes and trends in this training. We then analyzed the syllabi of courses from Cornell and compared the results with data from other Ivy League institutions. Our findings reveal important insights into how different fields and institutions prepare students for the ethical and commercial aspects of their research careers, highlighting areas for potential improvement. Through this comprehensive analysis, our project provides valuable insights into the evolution and current state of formal training in these areas. It also highlights potential gaps and areas for improvement, which can inform policy decisions and curriculum development.
 
+
 ![image](https://github.com/user-attachments/assets/39dfe308-a4a5-45c3-b780-661786fa9371)
+
+
 
 Comparative Analysis
 1.	The bar plot displays the bottom three fields per university in terms of “business-related” keywords. Noteworthy insights include:
- 
 
 Figure 9: Bottom 3 Disciplines Fields per University by Business Count
 
@@ -25,5 +27,8 @@ Figure 10: Bottom 3 Disciplines Fields per University by Ethics Count
 
 ●	Fields like Public Safety, Atmospheric Sciences, Nutrition, Culinary Arts, and Basic Computer Skills show the lowest ethics-related keyword counts, highlighting their limited focus on ethical training.
 ●	The variation across institutions suggests diverse approaches to integrating ethical considerations in different academic programs.
+
+
+
 ![image](https://github.com/user-attachments/assets/429ceb84-6b92-432c-8fa1-9b2383bfd5a4)
 
