@@ -10,30 +10,45 @@ Our project investigates the variation and evolution of formal training in resea
 ## Results of the Comparative Analysis
 
 The detailed analysis of the visualizations provides valuable insights into the integration of business and ethics-related keywords across Ivy League institutions. Key findings include:
+
 ●	Cornell University demonstrates a significant emphasis on both business and ethics-related keywords, reflecting its commitment to integrating these crucial concepts into its curriculum.
+
 ●	Harvard University and UPenn also show strong trends, particularly in management, economics, law, and sociology.
+
 ●	Columbia and Yale maintain steady trends, indicating consistent integration of business and ethics across various disciplines.
 
 
 ## Key Findings
 Cornell University
 1.	Trends Over Time:
+
 ●	Increasing trend of business-related keywords over the years, indicating a growing emphasis on business concepts in various disciplines.
 2.	Discipline-Specific Analysis:
+
 ●	The highest frequency of business-related words is in Management courses, followed by Economics and Accounting.
+
 ●	Ethics-related keywords were prominent in Law, Sociology, and Economics courses.
-Comparative Analysis with Ivy League Schools
+
+## Comparative Analysis with Ivy League Schools
 1.	Harvard University:
+
 ●	Similar trends were observed in the incorporation of business commercialization concepts in Management and Economics courses.
 2.	UPenn:
+
 ●	Higher emphasis on ethics in History and Law-related courses compared to other institutions.
 3.	Columbia University:
+
 ●	Strong focus on business concepts in their Business school, with significant integration of ethical training in Law and Social Sciences.
+
 4.	Yale University:
+
 ●	Balanced integration of both business and ethics concepts across various disciplines, particularly in Economics and Political Science.
 Importance of the Study
+
 ●	Understanding curriculum evolution helps institutions like Cornell adapt to changing industry needs.
+
 ●	Highlights the importance of ethical training in diverse fields, ensuring that graduates are well-equipped to handle contemporary challenges.
+
 ●	Provides a framework for future curriculum development aimed at fostering a balance between academic knowledge and practical skills.
 
 ## Future Recommendations
