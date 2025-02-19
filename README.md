@@ -19,7 +19,6 @@ The detailed analysis of the visualizations provides valuable insights into the 
 ●	Columbia and Yale maintain steady trends, indicating consistent integration of business and ethics across various disciplines.
 
 
-
 ## Key Findings
 
 Cornell University
@@ -58,6 +57,7 @@ Importance of the Study
 ●	Highlights the importance of ethical training in diverse fields, ensuring that graduates are well-equipped to handle contemporary challenges.
 
 ●	Provides a framework for future curriculum development aimed at fostering a balance between academic knowledge and practical skills.
+
 
 ## Future Recommendations
 
