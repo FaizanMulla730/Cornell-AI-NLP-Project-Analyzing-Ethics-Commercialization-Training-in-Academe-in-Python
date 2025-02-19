@@ -65,7 +65,6 @@ Importance of the Study
 
 ## Future Recommendations
 
-
 1.	Curriculum Development:
 
 ●	Encourage interdisciplinary courses that blend business concepts with ethical training to foster a holistic educational experience.
@@ -85,7 +84,6 @@ Importance of the Study
 
 ●	Analyze the impact of these curricular trends on student outcomes, such as employability and ethical decision-making in professional settings.
 By implementing these recommendations, academic institutions can better prepare their students for the dynamic demands of the modern workforce, ensuring they possess both business acumen and a strong ethical foundation.
-
 
 
 ## Conclusion
