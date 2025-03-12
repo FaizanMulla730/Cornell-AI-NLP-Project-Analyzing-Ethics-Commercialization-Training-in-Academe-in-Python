@@ -4,7 +4,6 @@
 ## Aim & Objective
 The primary objective of this project is to analyze the integration of research ethics and business commercialization in the curricula of various departments at Cornell University and to compare these trends with four other Ivy League schools: Harvard, UPenn, Columbia, and Yale. This comparative analysis seeks to understand how these institutions incorporate essential values such as ethics and commercialization into their academic programs over time.
 
-
 ## Summary of the Project
 Our project investigates the variation and evolution of formal training in research ethics and commercialization practices across academic disciplines and universities over time. Using advanced natural language processing (NLP) techniques with SpaCy, we cleaned and preprocessed vast amounts of textual data from course syllabi and institutional guidelines. Employing the KeyBERT model for keyword extraction, we identified key themes and trends in this training. We then analyzed the syllabi of courses from Cornell and compared the results with data from other Ivy League institutions. Our findings reveal important insights into how different fields and institutions prepare students for the ethical and commercial aspects of their research careers, highlighting areas for potential improvement. Through this comprehensive analysis, our project provides valuable insights into the evolution and current state of formal training in these areas. It also highlights potential gaps and areas for improvement, which can inform policy decisions and curriculum development.
 
