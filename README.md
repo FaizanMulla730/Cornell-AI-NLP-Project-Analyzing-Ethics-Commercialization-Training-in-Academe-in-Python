@@ -1,6 +1,5 @@
 # Cornell-AI-NLP-Project-Analyzing-Ethics-Commercialization-Training-in-Academe-in-Python
 
-
 ## Aim & Objective
 The primary objective of this project is to analyze the integration of research ethics and business commercialization in the curricula of various departments at Cornell University and to compare these trends with four other Ivy League schools: Harvard, UPenn, Columbia, and Yale. This comparative analysis seeks to understand how these institutions incorporate essential values such as ethics and commercialization into their academic programs over time.
 
