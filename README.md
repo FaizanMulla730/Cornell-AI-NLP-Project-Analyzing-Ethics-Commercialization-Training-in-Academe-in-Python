@@ -72,7 +72,6 @@ Importance of the Study
 
 ●	Develop policies that incentivize departments to incorporate business and ethics-related topics into their curricula.
 
-
 3.	Future Research:
 
 ●	Expand the scope to include more universities globally to gain a broader perspective on the integration of business and ethics in higher education.
