@@ -51,7 +51,6 @@ Cornell University
 ●	Balanced integration of both business and ethics concepts across various disciplines, particularly in Economics and Political Science.
 Importance of the Study
 
-
 ●	Understanding curriculum evolution helps institutions like Cornell adapt to changing industry needs.
 
 ●	Highlights the importance of ethical training in diverse fields, ensuring that graduates are well-equipped to handle contemporary challenges.
